@@ -1,7 +1,7 @@
 
 # Scan web - URL Bruteforcer in rust
 
-# FR - Version
+## FR - Version
 
 Qu'est-ce que le ScanWEB?
 ------------
